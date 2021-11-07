@@ -1,6 +1,6 @@
 package rey.com;
 
-import java.util.Random
+import java.util.Random;
 
 public class RandomNumberGen {
     public int getRandomNumber(){

@@ -7,4 +7,7 @@ public class RandomNumberGen {
         return new Random().nextInt();
     }
 
+    public int getRandomNumber(int Limit){
+        return new Random().nextInt(Limit);
+    }
 }
